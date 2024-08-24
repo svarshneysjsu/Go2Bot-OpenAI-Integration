@@ -4,3 +4,5 @@
 [submodule "go2_dashboard"]
 	path = go2_dashboard
 	url = https://github.com/svarshneysjsu/go2_dashboard.git
+	branch = master
+	
