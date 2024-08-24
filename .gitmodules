@@ -1,6 +1,6 @@
 [submodule "cyclonedds"]
 	path = cyclonedds
-	url = https://github.com/eclipse-cyclonedds/cyclonedds.git
+	url = https://github.com/svarshneysjsu/cyclonedds.git
 [submodule "go2_dashboard"]
 	path = go2_dashboard
-	url = https://github.com/bentheperson1/go2_dashboard.git
+	url = https://github.com/svarshneysjsu/go2_dashboard.git
