@@ -81,10 +81,6 @@ This repository contains the code and resources for integrating the Unitree Go2 
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or new features.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to Professor @Simon Shim for his guidance and support throughout this project, and to the DroneBlocks support team for their valuable insights into the SDK capabilities.
