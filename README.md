@@ -1,7 +1,3 @@
-Certainly! Here's a README for your project:
-
----
-
 # Go2Bot-OpenAI-Integration
 
 ## Overview
