@@ -119,4 +119,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 - [Unitree Robotics](https://www.unitree.com/) for their SDK and documentation.
 - [OpenAI](https://www.openai.com/) for providing the models used in this project.
 
-Special thanks to Professor @Simon Shim for his guidance and support throughout this project, and to the DroneBlocks support team for their valuable insights into the SDK capabilities.
+Special thanks to Professor Simon S. Y. Shim for his guidance and support throughout this project, and to the DroneBlocks support team for their valuable insights into the SDK capabilities.
