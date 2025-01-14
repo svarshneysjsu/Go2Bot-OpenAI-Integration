@@ -41,7 +41,7 @@ The **Go2Bot-OpenAI-Integration** project provides an interactive dashboard to c
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Go2Bot-OpenAI-Integration.git
+    git clone https://github.com/svarshneysjsu/Go2Bot-OpenAI-Integration.git
     cd Go2Bot-OpenAI-Integration
     ```
 
